@@ -1,6 +1,5 @@
 # USB-C-Taster-using-Attiny85
 
-# ATtiny85-based-USB-C-Tester
 
 
 
